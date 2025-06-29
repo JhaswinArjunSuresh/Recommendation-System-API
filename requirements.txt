@@ -1,1 +1,8 @@
+fastapi
+uvicorn
+pandas
+numpy
+scipy
+implicit
+pydantic
 
